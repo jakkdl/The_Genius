@@ -1,0 +1,12 @@
+[submodule "c9e7f12e89fece839857d1bc238daf43"]
+	path = genius_invitational
+	url = git@gist.github.com:c9e7f12e89fece839857d1bc238daf43.git
+[submodule "2dc3b67c96657c8e3b724e927e657242"]
+	path = league_of_geniuses
+	url = git@gist.github.com:2dc3b67c96657c8e3b724e927e657242.git
+[submodule "e31b0e61edcb6c424aaccd4fb465e895"]
+	path = spacier_jam
+	url = git@gist.github.com:e31b0e61edcb6c424aaccd4fb465e895.git
+[submodule "d76de3789ca8d38355c9c535814d1565"]
+	path = spice_and_auction
+	url = git@gist.github.com:d76de3789ca8d38355c9c535814d1565.git
